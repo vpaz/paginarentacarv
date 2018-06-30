@@ -30,6 +30,30 @@ public class TipoPersona {
         this.nombreTipoPersona = nombreTipoPersona;
         this.detalle = detalle;
     }
+
+    public int getIdPersona() {
+        return idPersona;
+    }
+
+    public void setIdPersona(int idPersona) {
+        this.idPersona = idPersona;
+    }
+
+    public String getNombreTipoPersona() {
+        return nombreTipoPersona;
+    }
+
+    public void setNombreTipoPersona(String nombreTipoPersona) {
+        this.nombreTipoPersona = nombreTipoPersona;
+    }
+
+    public String getDetalle() {
+        return detalle;
+    }
+
+    public void setDetalle(String detalle) {
+        this.detalle = detalle;
+    }
    
    
    
